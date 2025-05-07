@@ -113,9 +113,9 @@ http://localhost:5173
 
 ## 🖼️ Capturas de pantalla
 
-![Categorias](/Carbulator/public/screenshots/carbulator1.jpg)
-![Favoritos](/Carbulator/public/screenshots/carbulator2.jpg)
-![Filtrado](/Carbulator/public/screenshots/carbulator3.jpg)
+![Categorias](/screenshots/carbulator1.jpg)
+![Favoritos](/screenshots/carbulator2.jpg)
+![Filtrado](/screenshots/carbulator3.jpg)
 
 ## 👨‍💻 Autor
 
